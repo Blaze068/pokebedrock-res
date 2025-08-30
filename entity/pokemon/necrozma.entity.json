@@ -41,7 +41,7 @@
 				"default_air_idle": "animation.necrozma.ground_idle",
 				"default_water_idle": "animation.necrozma.ground_idle",
 				"default_walking": "animation.necrozma.walking",
-				"default_flying": "animation.necrozma.flying",
+				"default_flying": "animation.necrozma.ground_idle",
 				"default_swimming": "animation.necrozma.ground_idle",
 				"default_sleeping": "animation.necrozma.ground_idle",
 				"look_at_target": "animation.pokemon.look_at_target",
