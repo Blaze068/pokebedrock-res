@@ -562,9 +562,13 @@
 		"walkingwake",
 		"terapagos",
 		"melmetal",
+<<<<<<< Updated upstream
 		"zacian",
 		"kyurem",
 		"solgaleo"
+=======
+		"volcanion"
+>>>>>>> Stashed changes
 	],
 	"pokemon": {
 		"bulbasaur": {
