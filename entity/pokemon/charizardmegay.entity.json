@@ -9,7 +9,8 @@
 			},
 			"textures": {
 				"evo_aura": "textures/entity/evolving",
-				"shiny_default": "textures/entity/pokemon/charizardmegay/charizardmegay.png"
+				"default": "textures/entity/pokemon/charizardmegay/charizardmegay.png",
+				"shiny_default": "textures/entity/pokemon/charizardmegay/shiny_charizardmegay.png"
 			},
 			"scripts": {
 				"scale": "q.property('pokeb:scale')",
