@@ -10,7 +10,7 @@
 			"textures": {
 				"evo_aura": "textures/entity/evolving",
 				"default": "textures/entity/pokemon/necrozma/necrozma.png",
-				"shiny_default": "textures/entity/pokemon/necrozma/necrozma.png"
+				"shiny_default": "textures/entity/pokemon/necrozma/shiny_necrozma.png"
 			},
 			"scripts": {
 				"scale": "q.property('pokeb:scale')",
